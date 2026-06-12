@@ -32,7 +32,7 @@ Built an interactive Power BI dashboard tracking key operational KPIs including 
 ## 🔄 Dashboard 2 — Customer Churn Analysis
 
 ### 🔍 Business Problem
-A telecom company was losing customers without a clear understanding of who was churning, why they were leaving, or which customers were most at risk — making proactive retention impossible.
+A telecom company was losing customers without a clear understanding of who was churning, why they were leaving, or which customers were most at risk, making proactive retention impossible.
 
 ### 🛠️ How It Was Solved
 Analyzed customer demographic, contract, and usage data to identify churn patterns. Segmented customers by risk level and surfaced the key drivers behind attrition including contract type, tenure, and service usage.
@@ -47,7 +47,7 @@ Analyzed customer demographic, contract, and usage data to identify churn patter
 ## 🌍 Dashboard 3 — Diversity & Inclusion
 
 ### 🔍 Business Problem
-An organization struggling with gender imbalance at the executive level needed data to understand where diversity gaps existed across hiring, promotions, and turnover — and why progress was stalling.
+An organization struggling with gender imbalance at the executive level needed data to understand where diversity gaps existed across hiring, promotions, turnover and why progress was stalling.
 
 ### 🛠️ How It Was Solved
 Analyzed HR data across gender-related KPIs including hiring rates, promotion rates, turnover, performance ratings, and executive pipeline by gender. Identified root causes of gender imbalance at senior levels.
