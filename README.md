@@ -1,6 +1,6 @@
 # 📊 Power BI Dashboards | PwC Virtual Internship
 
-A collection of three Power BI dashboards developed as part of the **PwC Switzerland Virtual Job Simulation**, designed to deliver actionable insights across customer service, retention, and workforce diversity.
+A collection of three Power BI dashboards developed as part of the **PwC Internship Program**, designed to deliver actionable insights across customer service, retention, and workforce diversity.
 
 ---
 
