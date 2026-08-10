@@ -34,15 +34,25 @@ Each dashboard was structured around a specific business question with targeted 
 
 ## Dashboard Preview
 
-**Dashboard 1 — Call Center Performance**
+**Dashboard 1 — Call Centre Performance**
+
+![Call Centre Dashboard](PowerBI_images/call_centre_dashboard.png)
 
 > Calls answered rate · Resolution rate · Average speed to answer · Overall satisfaction score · Top agent performance quadrant · Call volume by time period and topic
 
+---
+
 **Dashboard 2 — Customer Churn Analysis**
+
+![Customer Churn Dashboard](PowerBI_images/customer_churn_dashboard.png)
 
 > Churn rate by contract type · Churn by demographics · Revenue at risk · Churn by service usage · Tenure analysis
 
-**Dashboard 3 — Diversity and Inclusion**
+---
+
+**Dashboard 3 — Diversity & Inclusion**
+
+![Diversity & Inclusion Dashboard](PowerBI_images/diversity_inclusion_dashboard.png)
 
 > Hiring split by gender · Promotion rate by gender and job level · Turnover by gender and department · Performance ratings by gender
 
